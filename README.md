@@ -63,7 +63,7 @@ Check that executables have shebangs.................(no files to check)Skipp
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_labels"></a> [labels](#module\_labels) | git::https://github.com/navneetbishnoi/terraform-aws-labels.git | v1.0.0 |
+| <a name="module_labels"></a> [labels](#module\_labels) | ../terraform-aws-labels | n/a |
 
 ## Resources
 

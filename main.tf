@@ -2,7 +2,7 @@
 ## Description : This Script is used to create Transfer Server, Transfer User And label .
 ## Copyright @ navneetbishnoi. All Right Reserved.
 module "labels" {
-  source      = "git::https://github.com/navneetbishnoi/terraform-aws-labels.git?ref=v1.0.0"
+  source      = "../terraform-aws-labels"
   name        = var.name
   environment = var.environment
   managedby   = var.managedby
